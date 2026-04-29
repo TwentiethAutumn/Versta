@@ -38,3 +38,6 @@ cd VerstaFront
 npm install
 npm run dev
 ```
+
+### 3. Открытие приложения
+Открываем по ссылке http://localhost:3000/
